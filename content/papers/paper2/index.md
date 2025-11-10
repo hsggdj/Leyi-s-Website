@@ -1,7 +1,7 @@
 
 ---
 title: "Master Dissertation: 3d N=4 Quiver Gauge Theory and Mirror Symmetry" 
-date: 2025-4-29
+date: 2025-04-29
 tags: ["Quantum Field Theory","Quiver Gauge Theory","3d Mirror Symmetry","Supersymmetric"]
 author: ["Leyi Jiang"]
 description: ""
